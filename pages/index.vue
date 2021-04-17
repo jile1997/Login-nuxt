@@ -4,6 +4,7 @@
       <Logo />
       <h1 class="title">
         nuxtWeb
+	<svg-icon icon-class="album" class-name="svg" />
       </h1>
       <div class="links">
         <a

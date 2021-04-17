@@ -36,6 +36,9 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    '@nuxtjs/dotenv',
+    'cookie-universal-nuxt',
+    '@nuxtjs/dayjs'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
